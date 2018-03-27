@@ -1,0 +1,6 @@
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\bin\Debug\GenerateStrings.exe.config
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\bin\Debug\GenerateStrings.exe
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\bin\Debug\GenerateStrings.pdb
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\obj\Debug\GenerateStrings.csprojResolveAssemblyReference.cache
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\obj\Debug\GenerateStrings.exe
+D:\GitHub\TelerikAcademy\JavaScript Part 1\JavaScript Exam - 1 Apr 2013 (Evening)\Auto Tests To Strings\GenerateStrings\GenerateStrings\obj\Debug\GenerateStrings.pdb

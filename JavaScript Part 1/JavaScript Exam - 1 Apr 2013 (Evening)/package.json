@@ -1,0 +1,7 @@
+{
+  "name": "JavaScript Exam - 1 Apr 2013 (Evening)",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
